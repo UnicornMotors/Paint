@@ -1,5 +1,7 @@
 # Discussion
-https://www.garagejournal.com/forum/threads/best-rust-control-paint-for-axle-etc.314823/
+- 2015 https://www.garagejournal.com/forum/threads/best-rust-control-paint-for-axle-etc.314823/
+
+- 2007 https://www.pirate4x4.com/threads/whats-a-good-axle-paint.550169/
 
 ## Favorite:
 >Dec 27, 2015
