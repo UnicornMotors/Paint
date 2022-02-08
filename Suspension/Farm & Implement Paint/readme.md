@@ -13,7 +13,7 @@
 - 47.99/gal https://www.tractorsupply.com/tsc/product/rust-oleum-specialty-farm-implement-low-gloss-black-1-gal
 
 ### Walmart
-[sch: Walmart](https://www.walmart.com/c/kp/rustoleum-farm-and-implement-paint)
+[sch: Walmart](https://www.walmart.com/c/kp/rustoleum-farm-and-implement-paint) [sch: 2](https://www.walmart.com/search?q=rustoleum%20farm%20and%20implement&typeahead=farm%20and%20implement)
 
 
 ## brand: Krylon
